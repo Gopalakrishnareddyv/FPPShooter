@@ -8,6 +8,7 @@ public class BulletController : MonoBehaviour
     public Rigidbody bulletrb;
     public float lifeTime;
     public GameObject effects;
+    
     // Start is called before the first frame update
     void Start()
     {

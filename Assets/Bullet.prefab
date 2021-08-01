@@ -142,3 +142,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 754c8e6923c967c459cb7fb26dc7f95c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  enemyDamage: 0
+  damagePlayer: 0
